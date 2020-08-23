@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag9455/Forkify.git"
+  },
+  "author": "Anurag Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag9455/Forkify/issues"
+  },
+  "homepage": "https://github.com/anurag9455/Forkify#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
