@@ -1,5 +1,5 @@
 // Global app controller
 
-import x from './test';
+import num from './test';
 
-console.log(`I imported ${x}`);
+console.log(`I imported ${num} hell with caller that..`);
